@@ -1,0 +1,23 @@
+.main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 98vh;
+}
+
+.red {
+  background-color: red;
+}
+
+.green {
+  background-color: green;
+}
+
+.count {
+  font-size: 6rem;
+  color: white;
+}
+
+.count-num {
+  transition: color 0.5s ease;
+}
